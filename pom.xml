@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <version>0.9.1</version>
+  <artifactId>JMockit_Eclipse_Plugin</artifactId>
+  <packaging>eclipse-feature</packaging>
+  
+  <parent>
+		<groupId>ajermakovics</groupId>
+		<artifactId>eclipse-jmockit-assist-master</artifactId>
+		<version>0.9.1-SNAPSHOT</version>
+		<relativePath>../jmockit-eclipse-updatesite/mavenMaster/pom.xml</relativePath>
+	</parent>
+
+</project> 
