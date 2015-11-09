@@ -2,7 +2,7 @@
 <feature
       id="JMockit_Eclipse_Plugin"
       label="JMockit Eclipse Plug-in"
-      version="0.9.1"
+      version="1.0.0"
       provider-name="Andrejs Jermakovics">
 
    <description url="http://github.com/ajermakovics/eclipse-jmockit-assist">
@@ -11,7 +11,7 @@
 
    <copyright url="http://www.example.com/copyright">
       /*
- * Copyright (c) 2012 Andrejs Jermakovics.
+ * Copyright (c) 2015 Andrejs Jermakovics.
  *
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
