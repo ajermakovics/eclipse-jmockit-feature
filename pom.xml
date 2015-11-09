@@ -3,12 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>JMockit_Eclipse_Plugin</artifactId>
   <packaging>eclipse-feature</packaging>
-  <version>1.0.0</version>
   
   <parent>
 		<groupId>ajermakovics</groupId>
 		<artifactId>eclipse-jmockit-assist-master</artifactId>
-		<version>1.0.0</version>
+		<version>${global.version}</version>
 		<relativePath>../jmockit-eclipse-updatesite/mavenMaster/pom.xml</relativePath>
 	</parent>
 
